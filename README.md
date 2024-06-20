@@ -8,8 +8,7 @@ This is a repository for the Python scripts for hard constrained sequential phys
 Roy, P., & Castonguay, S. (2024). Exact Enforcement of Temporal Continuity in Sequential Physics-Informed Neural Networks. arXiv preprint arXiv:2403.03223. (https://arxiv.org/abs/2403.03223)
 
 ## Authors and acknowledgment
-# Lead Developers
-Pratanu Roy
+Pratanu Roy \\
 Stephen Castonguay
 
 ## License
