@@ -17,6 +17,10 @@ Roy, P., & Castonguay, S. (2024). Exact Enforcement of Temporal Continuity in Se
 - JAX (https://jax.readthedocs.io/en/latest/installation.html)
 - JAXopt(https://jaxopt.github.io/stable/) 
 
+## Instruction
+
+Once the packages mentioned in prerequisites are installed, the example scripts can be run using regular python command. 
+
 ## Authors
 Pratanu Roy (roy23@llnl.gov)  
 Stephen Castonguay (castonguay1@llnl.gov)
