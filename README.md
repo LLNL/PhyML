@@ -5,8 +5,9 @@ Physics based Machine Learning (PhyML)
 
 ## Description
 This is a repository for the Python scripts for hard constrained sequential physics-informed neural networks (HCSPINNs). This method automatically enforces temporal continuity at time-window interfaces by using interpolation functions. The details of the method and implementation can be found here: 
-Roy, P., & Castonguay, S. T. (2024). Exact enforcement of temporal continuity in sequential physics-informed neural networks. Computer Methods in Applied Mechanics and Engineering, 430, 117197. (https://doi.org/10.1016/j.cma.2024.117197)
-Roy, P., & Castonguay, S. (2024). Exact Enforcement of Temporal Continuity in Sequential Physics-Informed Neural Networks. arXiv preprint arXiv:2403.03223. (https://arxiv.org/abs/2403.03223)
+
+- Roy, P., & Castonguay, S. T. (2024). Exact enforcement of temporal continuity in sequential physics-informed neural networks. Computer Methods in Applied Mechanics and Engineering, 430, 117197. (https://doi.org/10.1016/j.cma.2024.117197)
+- Roy, P., & Castonguay, S. (2024). Exact Enforcement of Temporal Continuity in Sequential Physics-Informed Neural Networks. arXiv preprint arXiv:2403.03223. (https://arxiv.org/abs/2403.03223)
 
 # Installation
 
